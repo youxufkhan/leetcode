@@ -12,7 +12,10 @@ This directory contains my solutions to the coding problems from LeetCode's 30 D
 
 (Replace this list with the actual problem names and links to their LeetCode pages as you solve them.)
 
-1. -- : --
+1. [2667 : Create Hello World Function ](HelloWorldFunction.js)
+2. [2704 : To Be or Not To Be](ToBeOrNotToBe.js)
+3. [2665 : Counter II](CounterII.js)
+4. [2635 : Apply Transform Over Each Element in Array](TransformEachElementinArray.js)
 
 **Work in Progress:**
 
