@@ -19,6 +19,7 @@ This directory contains my solutions to the coding problems from LeetCode's 30 D
 7. [2629 : Function Composition](FunctionComposition.js)
 8. [2628 : Allow One Function Call](AllowOneFunctionCall.js)
 9. [2703 : Return Length of Arguments Passed](ReturnArgsLength.js)
+10. [2623 : Memoize](Memoize.js)
 
 **Work in Progress:**
 
