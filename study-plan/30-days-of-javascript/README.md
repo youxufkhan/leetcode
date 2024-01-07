@@ -21,6 +21,7 @@ This directory contains my solutions to the coding problems from LeetCode's 30 D
 9. [2703 : Return Length of Arguments Passed](ReturnArgsLength.js)
 10. [2623 : Memoize](Memoize.js)
 11. [2723 : Add Two Promises](AddTwoPromises.js)
+12. [2621 : Sleep](Sleep.js)
 
 **Work in Progress:**
 
