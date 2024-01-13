@@ -24,6 +24,7 @@ This directory contains my solutions to the coding problems from LeetCode's 30 D
 12. [2621 : Sleep](Sleep.js)
 13. [2715 : Timeout Cancellation](TimeoutCancellation.js)
 14. [2725 : Interval Cancellation](IntervalCancellation.js)
+15. [2637 : Promise Time Limit](PromiseTimeLimit.js)
 
 **Work in Progress:**
 
